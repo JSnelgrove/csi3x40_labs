@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+ 
+ 
+ body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+ }
+ 
+ 
+ .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+ }
+ 
+ 
+ header {
+    text-align: center;
+    margin-bottom: 20px;
+ }
+ 
+ 
+ header h1 {
+    margin-bottom: 10px;
+    font-size: 2em;
+    color: #333;
+ }
+ 
+ 
+ header p {
+    margin-bottom: 5px;
+    font-size: 1.2em;
+    color: #666;
+ }
+ 
+ 
+ .contact-info p {
+    margin: 5px 0;
+    font-size: 0.9em;
+    color: #555;
+    display:inline;
+    padding-right: 10px;
+ }
+ 
+ 
+ section {
+    margin-bottom: 20px;
+ }
+ 
+ 
+ section h2 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #333;
+    border-bottom: 2px solid #eaeaea;
+    padding-bottom: 5px;
+ }
+ 
+ 
+ .job, .school .hackathon p{
+    margin-bottom: 20px;
+ }
+ 
+ 
+ .job h3, .school h3 .hackathon p{
+    margin-bottom: 5px;
+    font-size: 1.2em;
+    color: #333;
+ }
+ 
+ 
+ .job p, .school p, .hackathon p{
+    margin-bottom: 10px;
+    font-size: 1em;
+    color: #666;
+ }
+ 
+ 
+ ul {
+    list-style-type: disc;
+    margin-left: 20px;
+ }
+ 
+ 
+ 
+ 
